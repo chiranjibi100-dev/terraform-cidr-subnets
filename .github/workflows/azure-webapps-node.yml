@@ -54,7 +54,7 @@ jobs:
         name: node-app
         path: .
 
-  deploy:
+  
     permissions:
       contents: none
     runs-on: ubuntu-latest
